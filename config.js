@@ -1,12 +1,23 @@
 const CONFIG = {
-    introTitle: ' Châu Yêu  à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: ' Ly Yêu của anh à!',
+    introDesc: ` Anh biết Là hai đứa Mình 
+                 Không thể đi xa hơn với nhau được nữa
+                 Những anh Yêu Em rất nhiều
+                 Cho dù sau này có xa nhau
+                 Mong em Đừng có ghét Anh
+                 Anh làm cái này để 
+                 Sau này mình có thể xem lại
+                 Mặc dù không thể che trở cho em
+                 Hay là làm cho em vui như những
+                 Người đàn ông khác
+                 Nhưng mà anh thì lúc nào cũng Yêu Khánh Ly
+                 Một cái tên rất đẹp
+                 Anh Luôn Yêu Em <3   `,
+          
+
     btnIntro: 'hihi',
     title: 'Anh yêu em nhiều lắm',
-    desc: 'Đừng xa anh nhé Châu Yêu của Anh <3 ',
+    desc: 'Hãy ở Bên nhau Lâu nhất có thể và đừng Suy nghĩ nhiều nhé ',
     btnYes: 'Yêu anh Nhiều <3',
     btnNo: 'Không :((',
     question:'Trên thế giới hơn 7 tỉ người mà em là người đẹp nhất <3',
